@@ -17,10 +17,11 @@ html {
 }
 
 body {
-  background: linear-gradient(
-    -45deg,
-    rgba(45, 2, 51, 0.76),
-    rgba(6, 4, 136, 0.925)
-  );
+
+
+  background: linear-gradient( -44deg, rgba(45, 2, 51, 0.76), rgba(6, 4, 136, 0.925) ) no-repeat fixed;
   font-family: 'Poppins', sans-serif;
+
+
+  overflow: none;
 }
