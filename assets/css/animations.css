@@ -1,0 +1,18 @@
+@keyframes animate{
+  0%,
+  100%{
+    color: deeppink;
+  }
+
+  25%{
+    color: deepskyblue;
+  }
+
+  50%{
+    color: lawngreen;
+  }
+
+  75%{
+    color: yellow;
+  }
+}

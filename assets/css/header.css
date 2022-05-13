@@ -71,3 +71,8 @@ header {
   margin: 8px;
   transition: 0.3s;
 }
+
+.cabecalho__redes{
+  text-shadow: 0 0 15px;
+  animation: animate 1.5s infinite linear;
+}
