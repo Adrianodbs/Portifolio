@@ -72,7 +72,7 @@ header {
   transition: 0.3s;
 }
 
-.cabecalho__redes{
+.cabecalho__redes i:hover{
   text-shadow: 0 0 15px;
   animation: animate 1.5s infinite linear;
 }
